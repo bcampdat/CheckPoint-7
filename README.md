@@ -13,7 +13,7 @@ Enlace de interés
 * ***Curso completo*** : 
 ["HOLA MUNDO"](https://youtu.be/QoC4RxNIs5M?t=4) 
 
-[Curso reducido Brais Moure](https://youtu.be/6cnFl9aHD5Y) 
+* [Curso Brais Moure](https://youtu.be/6cnFl9aHD5Y) 
 
 👍 [TUTORIAL ITERACTIVO PARA PRACTICAR :](https://www.digitallearning.es/intro-programacion-js/que-es-programar.html)
 
