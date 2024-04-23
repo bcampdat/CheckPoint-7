@@ -1,4 +1,4 @@
-/** ▷ Para ejecutar o verificar los códigos utiliza en una pestaña nueva https://playcode.io/javascript  
+/** ✏  ejerciciosTeoricos.ipynb ▷ Para ejecutar o verificar los códigos utiliza en una pestaña nueva https://playcode.io/javascript  
 
 Ctrl + C (Copia) y Ctrl + V (pega) El código  o simplemente escribe tu código 😜 **/
 
